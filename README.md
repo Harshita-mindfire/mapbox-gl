@@ -1,1 +1,1 @@
-https://mapbox-gl-24wh.vercel.app/
+Demo: https://mapbox-gl-24wh.vercel.app/
